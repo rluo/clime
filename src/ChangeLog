@@ -1,0 +1,22 @@
+2012-04-23  Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
+
+	* Version: 0.4.1
+	* clime.R: fix a matrix conversion bug
+	* Updated reference
+
+2012-01-22 Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
+
+	* Version: 0.4
+	* clime.R: default to have perturbation due to a popular request
+
+2011-07-23  Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
+
+	* Version: 0.3
+	* likelihood.R: more stable log-det calculation
+
+2011-02-01  Xi (Rossi) LUO  <xi.rossi.luo@gmail.com>
+
+	* Version: 0.2
+	* Release: first public release
+
+

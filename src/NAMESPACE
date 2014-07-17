@@ -1,0 +1,5 @@
+import("lpSolve")
+export("clime", "cv.clime","likelihood","tracel2")
+S3method("print", "clime")
+S3method("print", "cv.clime")
+

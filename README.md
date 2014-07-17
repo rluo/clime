@@ -1,4 +1,4 @@
-#clime (Constrained L1 Inverse Covariance Estimation)#
+#clime#
 
 by [Xi (Rossi) LUO](https://sites.google.com/site/xirossiluo/)
 

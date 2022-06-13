@@ -1,0 +1,11 @@
+ChangeLog~
+DESCRIPTION~
+NAMESPACE~
+man/clime-internal.Rd~
+man/clime.Rd~
+man/cv.clime.Rd~
+man/print.clime.Rd~
+man/print.cv.clime.Rd~
+R/clime.R~
+R/likelihood.R~
+R/linprogPD.R~

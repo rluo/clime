@@ -1,7 +1,7 @@
 Package: clime
 Type: Package
 Title: Constrained L1-minimization for Inverse (covariance) Matrix Estimation
-Version: 0.4.1
+Version: 0.5
 Date: 2012-04-23
 Author: T. Tony Cai, Weidong Liu and Xi (Rossi) Luo
 Maintainer: Xi (Rossi) Luo <xi.rossi.luo@gmail.com>
